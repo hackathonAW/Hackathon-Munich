@@ -20,7 +20,7 @@ To ensure a level field for all contestants, all code, design, art, music, SFX, 
 
 ## Submitting your code
 
-Use Github, and this repository: [Hackathon Munich](https://github.com/hackathonAW/Hackathon-Munich) when submitting your code. Login using your personal [github](https://github.com/) account - create one if you don't have one - and click the fork button found in the top right corner of the [repository page](https://github.com/hackathonAW/Hackathon-Munich) to create your own copy of the repository. 
+Use Github, and this repository: [Hackathon Munich](https://github.com/hackathonAW/Hackathon-Munich) when submitting your code. Login using your personal [github](https://github.com/) account - create one if you don't have one - and click the fork button found in the top right corner of the [repository page](https://github.com/hackathonAW/Hackathon-Munich) to create your own copy of the repository. You will find more information how to use Github here: (https://help.github.com) 
 
 
 ## Ownership
